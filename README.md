@@ -1,16 +1,12 @@
-# Welcome to my Profile,
+<h1 align="center">Welcome <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand Dark Skin Tone" width="40" height="40" />, I'm Adam Hayek <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Man%20Technologist.png" alt="Man Technologist" width="40" height="40" /></h1>
+<h3 align="center">Full-Stack Developer | Code Enthusiast | Problem Solve </h3>
 
-### Full-Stack Developer | Code Enthusiast | Problem Solver
-
-Hey there, I'm Adam Hayek, a passionate full-stack developer who thrives on writing clean and efficient code. Here's a glimpse into my coding world:
-
-- 💻 I code with a purpose, creating software solutions that make a difference.
-- 🌐 Full-stack expertise.
-- 🔧 Always looking for opportunities to learn and grow as a developer.
-- 💡 Solving complex problems and optimizing processes are my specialties.
-
-### My Tech Stack
-
+<p>Hey there, I'm Adam Hayek, a passionate full-stack developer who thrives on writing clean and efficient code. Here's a glimpse into my coding world:</p>
+<li>💻 I code with a purpose, creating software solutions that make a difference.</li>
+<li>🌐 Full-stack expertise.</li>
+<li>🔧 Always looking for opportunities to learn and grow as a developer.</li>
+<li>💡 Solving complex problems and optimizing processes are my specialties.</li>
+<h3> My Tech Stack</h3>
 <div>
   
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain-wordmark.svg" title="Laravel" alt="laravel" width="40" height="40"/>&nbsp;
