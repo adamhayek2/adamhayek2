@@ -31,8 +31,8 @@ const sleeplessNights = [];
 
 const reactionToBugs = (bug) => {
   if (bug) {
-    const sleeplessNight = { date: new Date().toLocaleDateString(), type: 'React Bug' };
-    sleeplessNights.push(sleeplessNight);
+    const tonight = { date: new Date().toLocaleDateString(), type: 'React Bug' };
+    sleeplessNights.push(tonight);
     refillCoffee();
   } else {
     moveToAnotherChallenge();
