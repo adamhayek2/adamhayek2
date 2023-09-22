@@ -27,11 +27,9 @@
 
 ```javascript
 
-const sleeplessNights = [];
-
 const reactionToBugs = (bug) => {
   if (bug) {
-    const tonight = { date: new Date().toLocaleDateString(), type: 'React Bug' };
+    const tonight = { date: new Date().toLocaleDateString(), purpose: 'React Bug' };
     sleeplessNights.push(tonight);
     refillCoffee();
   } else {
