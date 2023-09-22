@@ -1,4 +1,4 @@
-<h1 align="center">Welcome <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand Dark Skin Tone" width="40" height="40" />, I'm Adam Hayek <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Man%20Technologist.png" alt="Man Technologist" width="40" height="40" /></h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand Dark Skin Tone" width="40" height="40" />, I'm Adam Hayek </h1>
 <h3 align="center">Full-Stack Developer | Code Enthusiast | Problem Solve </h3>
 
 <p>Hey there, I'm Adam Hayek, a passionate full-stack developer who thrives on writing clean and efficient code. Here's a glimpse into my coding world:</p>
