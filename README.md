@@ -1,5 +1,5 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand Dark Skin Tone" width="40" height="40" />, I'm Adam Hayek </h1>
-<h3 align="center">Full-Stack Developer | Code Enthusiast | Problem Solve </h3>
+<h3 align="center">Full-Stack Developer | Code Enthusiast | Problem Solver </h3>
 
 <p>Hey there, I'm Adam Hayek, a passionate full-stack developer who thrives on writing clean and efficient code. Here's a glimpse into my coding world:</p>
 <li>💻 I code with a purpose, creating software solutions that make a difference.</li>
